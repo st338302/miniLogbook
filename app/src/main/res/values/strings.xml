@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mini Logbook</string>
+    <string name="average_is">Your average is %s</string>
+    <string name="add_measurement">Add measurement:</string>
+    <string name="unit_mg_dl">mg/dL</string>
+    <string name="unit_mmol_l">mmol/L</string>
+    <string name="save">Save</string>
+    <string name="enter_measurement">Please enter measurement</string>
+    <string name="measurement_saved">Measurement saved</string>
+    <string name="zero">0.0 mg/dL</string>
+    <string name="history">History</string>
+</resources>
